@@ -12,11 +12,8 @@ This dashboard transforms raw Airbnb data into meaningful business insights thro
 
 ### Dashboard Overview
 
-<img src="screenshots/overview.png" width="100%">
+<img width="658" height="489" alt="image" src="https://github.com/user-attachments/assets/a6cded96-5d2e-4bc5-9166-3d522378f238" />
 
-### Detailed Analysis
-
-<img src="screenshots/guest expirence.png" width="100%">
 
 ---
 
